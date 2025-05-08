@@ -19,31 +19,39 @@ Tech Stack
 ---
 Project Structure
 
-# ProfInsightsWebsite
-anonymous professor rating 
+## Project Structure
+
+### ProfInsightsWebsite
+Anonymous professor rating platform
+
+```text
 profinsights/
-├── client/ # React frontend (Vite + TailwindCSS)
-│ ├── public/
-│ └── src/
-├── server/ # Node.js backend
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── index.js
+├── client/              # React frontend (Vite + TailwindCSS)
+│   ├── public/
+│   └── src/
+├── server/              # Node.js backend
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── index.js
 ├── .gitignore
 ├── README.md
 └── package.json
+```
 
 
 ---
 
  Key Features
 
-- Search and filter professors by name, university, or course
+- Search and filter professors by name or course
 - Submit anonymous reviews with 1–5 star ratings
-- Edit or delete your review within a time limit
+- Edit or delete your review within a time limit (planned)
 - Moderation and spam detection (planned)
-- Responsive design for mobile and desktop
+- Responsive design for mobile (planned)
+- Responsive design for desktop
+- AI-based moderation logic design
+
 
 ---
 Getting Started
@@ -72,12 +80,12 @@ node server.js
 
 Contributors
 
-Name	Email
-Niharika Attem	se22ucse038@mahindrauniversity.edu.in
+Name	                Email
+Niharika Attem	      se22ucse038@mahindrauniversity.edu.in
 Niharika Mallavarapu	se22ucse182@mahindrauniversity.edu.in
-Sanjana Arroju	se22ucse309@mahindrauniversity.edu.in
+Sanjana Arroju	      se22ucse309@mahindrauniversity.edu.in
 Siri Vennela Potluri	se22ucse212@mahindrauniversity.edu.in
-Deepak B	se22ucse077@mahindrauniversity.edu.in
-Ananya Gandla	se22ucse025@mahindrauniversity.edu.in
-Divya Reddy	se22ucse083@mahindrauniversity.edu.in
+Deepak B	            se22ucse077@mahindrauniversity.edu.in
+Ananya Gandla	        se22ucse025@mahindrauniversity.edu.in
+Divya Reddy	          se22ucse083@mahindrauniversity.edu.in
 
