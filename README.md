@@ -1,6 +1,6 @@
-# ProfInsights
+ProfInsights
 
-Anonymous Professor Rating Platform**  
+Anonymous Professor Rating Platform
 Version 1.0
 
 ProfInsights is a web-based application that allows students to anonymously rate and review professors based on teaching quality, clarity, responsiveness, and more. Built for transparency and student empowerment, the platform prioritizes privacy and ease of use.
